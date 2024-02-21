@@ -68,7 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YacoubAl-hardari/YacoubAl-hardari/output/snake.svg" alt="Snake animation" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10" alt="Snake animation" />
 
 ###
 
