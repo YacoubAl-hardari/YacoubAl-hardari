@@ -68,7 +68,11 @@
 
 ###
 
+###
 
+<img src="https://raw.githubusercontent.com/YacoubAl-hardari/YacoubAl-hardari/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
