@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Full Stack developer. Laravel - Livewire - Filament - Api - Bootstrap - Tailwind - Css - Html - Vue - inertiajs </p>
+<p align="left">I am a Full Stack developer. Laravel - Livewire - Filament - Api - Bootstrap - Tailwind - Css - Html - Vue - inertiajs - React </p>
 
 ###
 
