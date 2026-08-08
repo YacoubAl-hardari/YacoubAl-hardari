@@ -7,9 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
-
 ###
-
 <p align="left">- 🔭 I’m currently working on **Company**<br>🌱 I’m currently learning refactoring <br><br>👨‍💻 All of my projects are available at https://yacoubalhaidari.com/<br><br>💬 Ask me about Laravel,Livewire,inertiajs,Filament<br><br>📫 How to reach me info@yacoubalhaidari.com<br><br>📄 Know about my experiences https://resume.io/r/P37UI27cu</p>
 
 ###
